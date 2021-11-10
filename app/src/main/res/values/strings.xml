@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">viewModelDemo</string>
+    <string name="display_value">0</string>
+    <string name="btn_content">Increment</string>
+</resources>
